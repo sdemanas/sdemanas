@@ -1,4 +1,4 @@
-![Bug](bug_crop.jpg)
+![Bug](bug_crop_bw.jpg)
 
 <!--
 **sdemanas/sdemanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
